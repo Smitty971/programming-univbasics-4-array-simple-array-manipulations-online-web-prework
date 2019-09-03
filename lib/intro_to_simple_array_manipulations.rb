@@ -23,6 +23,7 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat
-  
+def using_concat(favorite_song,favorite_artist)
+  favorite_song.concat(favorite_artist)
 end
+
