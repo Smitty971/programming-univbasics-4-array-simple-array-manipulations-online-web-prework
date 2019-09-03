@@ -28,5 +28,7 @@ def using_concat(favorite_song,favorite_artist)
 end
 
 def using_insert
-  
+  a1 = [1,2,3]
+  print a1.insert(1,"Hello")
+  puts
 end
