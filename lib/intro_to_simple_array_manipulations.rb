@@ -44,6 +44,6 @@ def using_flatten(array)
 end
  
 def using_delete(array)
-  array.delete()
+  array.delete("z")
 end
 
