@@ -27,7 +27,7 @@ def using_concat(favorite_song,favorite_artist)
   favorite_song.concat(favorite_artist)
 end
 
-def using_insert(array)
+def using_insert(array,element)
   a1 = [1,2,3]
   print a1.insert(1,6)
   puts
