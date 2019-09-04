@@ -32,3 +32,4 @@ def using_insert(array,element)
   array.insert(4,"Python")
 end
 array.length
+end 
