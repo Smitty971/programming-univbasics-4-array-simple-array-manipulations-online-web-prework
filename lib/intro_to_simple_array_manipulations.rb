@@ -34,3 +34,9 @@ def using_insert(array,element)
   array.insert(6,"Ada")
   array.insert(7,"Agda")
 end 
+
+def using_uniq(array)
+  array.uniq 
+end
+
+
