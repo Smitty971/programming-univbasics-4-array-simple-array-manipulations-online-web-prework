@@ -29,6 +29,5 @@ end
 
 def using_insert(array,element)
   array = [1,2,3]
-  print a1.insert(2,6)
-  puts
+  array.insert(2,6)
 end
