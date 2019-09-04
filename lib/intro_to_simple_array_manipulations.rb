@@ -31,5 +31,6 @@ def using_insert(array,element)
   array = [1,2,3]
   array.insert(4,"Python")
   array.insert(5,"Actor")
-  array.insert(6)
+  array.insert(6,"Ada")
+  array.insert()
 end 
